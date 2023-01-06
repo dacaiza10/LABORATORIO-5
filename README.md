@@ -149,10 +149,10 @@ Circuito Thévenin:
 Calcular errores de las mediciones y comentar los resultados.
     
     Tabla 5.3. % Error-Valores del Circuito Equivalente de Thévenin
-    ![image](https://user-images.githubusercontent.com/117781501/211032289-856da91f-d762-4c69-adb2-f312411da22b.png)
+   ![image](https://user-images.githubusercontent.com/117781501/211032289-856da91f-d762-4c69-adb2-f312411da22b.png)
 
     Tabla 5.4. %Error-Comprobación del Teorema de Thévenin.
-    ![image](https://user-images.githubusercontent.com/117781501/211032380-f4c9941a-4bd3-4c45-a33a-952d00fc8c89.png)
+   ![image](https://user-images.githubusercontent.com/117781501/211032380-f4c9941a-4bd3-4c45-a33a-952d00fc8c89.png)
 
     
 # 5.7. VIDEO
